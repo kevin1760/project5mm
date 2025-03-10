@@ -1,0 +1,56 @@
+
+
+iframe{ 
+max-width: 100%;
+}
+
+header {
+     border: 1px solid black; 
+    border-radius: 20px;
+    padding: 20px; 
+    margin: 0 0 10px 0;
+    background-color: #ec0531
+}
+
+body {
+    
+            font-family: 'Roboto', sans-serif;
+            font-size: 16px; 
+            line-height: 1.4em; 
+            text-align: left; 
+            background-color: #266780
+    
+}
+
+section {
+    border: 1px solid black; 
+    border-radius: 25px;
+    padding: 20px; 
+    margin: 0 0 10px 0;
+    background-color: #1f0208
+    
+}
+p {
+    color: #ff0707
+}
+h2 {
+  font-family: 'Poppins', sans-serif;
+  color: #ff0707 
+    
+}
+h3 {
+    font-family: 'Poppins', sans-serif;
+    color: #ffffff 
+}
+
+
+footer {
+    border: 1px solid black; 
+    border-radius: 20px;
+    padding: 20px; 
+    margin: 0 0 10px 0;
+    background-color: #1f0208
+}
+
+
+
